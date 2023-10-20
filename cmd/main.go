@@ -28,6 +28,7 @@ func main() {
 	result, err := comparator.CompareDirs(dir1, dir2, threshold)
 	if err != nil {
 		fmt.Println("Ошибка при сравнении файлов:", err)
+		return
 	}
 
 	fmt.Println("Идентичные файлы:")
