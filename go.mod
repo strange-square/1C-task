@@ -1,4 +1,4 @@
-module Users/dbogatyreva/GolandProjects/1C-task
+module github.com/strange-square/1C-task
 
 go 1.20
 

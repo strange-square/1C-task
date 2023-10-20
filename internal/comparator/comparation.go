@@ -1,8 +1,8 @@
 package comparator
 
 import (
-	"Users/dbogatyreva/GolandProjects/1C-task/internal/my_math"
-	"Users/dbogatyreva/GolandProjects/1C-task/internal/utils"
+	"github.com/strange-square/1C-task/internal/my_math"
+	"github.com/strange-square/1C-task/internal/utils"
 	"sync"
 	"sync/atomic"
 )

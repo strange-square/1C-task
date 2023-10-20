@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Users/dbogatyreva/GolandProjects/1C-task/internal/comparator"
 	"fmt"
+	"github.com/strange-square/1C-task/internal/comparator"
 	"os"
 	"strconv"
 )
